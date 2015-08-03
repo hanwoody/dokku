@@ -4,15 +4,15 @@
 
 - 新功能：容器和主机的标签管理0.13 版本增加了容器和主机的标签管理功能，你可以在创建容器时，为容器设置标签。或者为安装了 cSphere agent 的主机设置标签。
 
-![add label](https://blog.csphere.cn/wp-content/uploads/2015/07/Screen-Shot-2015-07-31-at-7.01.13-PM-300x184.png)
+  ![add label](https://blog.csphere.cn/wp-content/uploads/2015/07/Screen-Shot-2015-07-31-at-7.01.13-PM-300x184.png)
 
 - 新功能：容器和主机列表的视图设置，通过视图设置，可以让容器和主机列表只显示自己关注的条目。
 
-![label view](https://blog.csphere.cn/wp-content/uploads/2015/07/Screen-Shot-2015-07-31-at-7.55.18-PM-300x160.png)
+  ![label view](https://blog.csphere.cn/wp-content/uploads/2015/07/Screen-Shot-2015-07-31-at-7.55.18-PM-300x160.png)
 
 - 新功能：主机的下线维护你可以将当前运行有问题的主机，切换成维护状态。进入维护状态的主机上的容器和镜像，将不会在对应的列表中出现。当你把主机恢复时，数据将会重新出现。
 
-![](https://blog.csphere.cn/wp-content/uploads/2015/07/Screen-Shot-2015-07-31-at-7.40.26-PM-300x18.png)
+  ![](https://blog.csphere.cn/wp-content/uploads/2015/07/Screen-Shot-2015-07-31-at-7.40.26-PM-300x18.png)
 
 - 新功能：主机彻底删除你可以将不再需要通过 cSphere 管理的主机彻底删除。如果你希望把删除后的主机将重新连接到 cSphere, 请先将该主机的 csphere-agent 容器和数据目录（默认为 /data/csphere）删除，再重新安装 cSphere agent
 
