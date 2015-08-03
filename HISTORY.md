@@ -30,3 +30,9 @@
 - 根据安装说明重新安装 controller
 - 更新完 controller 之后，在主机列表点击添加主机，根据图层提示的命令，在每台主机上执行该命令，完成 agent 的升级
  
+## 关注希云
+- 网站: https://csphere.cn
+- 培训：https://csphere.cn/training
+- 社区：https://discuss.csphere.cn
+- 微信：cSphereCN
+- ![qrcode](http://csphere.cn/s/2d0b4a25-4a25-484c-bc57-ad10a3f288af.jpg)
