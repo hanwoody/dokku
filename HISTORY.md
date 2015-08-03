@@ -35,4 +35,4 @@
 - 培训：https://csphere.cn/training
 - 社区：https://discuss.csphere.cn
 - 微信：cSphereCN
-- ![qrcode](http://csphere.cn/s/2d0b4a25-4a25-484c-bc57-ad10a3f288af.jpg)
+   ![qrcode](http://csphere.cn/s/02a64545-1f43-423d-9d15-72710f8d44f2.jpg)
